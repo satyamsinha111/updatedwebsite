@@ -1,0 +1,49 @@
+.header{
+    background-color: #eee;
+    padding-bottom: 20px;
+    .header-content{
+        padding-right: 20px;
+        color: #5C8374;
+        h4{
+            font-size: medium;
+        }
+        ul li{
+            list-style: none;
+        }
+        .img-me{
+            max-width: 80%;
+            border-radius: 10px;
+            border: 10px solid #fff;
+        }
+        .heading{
+            font-size: 20px;
+        }
+        .techused{
+            max-width: 100%;
+            background: transparent;
+        }
+    }
+}
+
+.projects{
+    background-color: #FBF6EE;
+    padding-bottom: 20px;
+    .projects_content{
+        color: #5C8374;
+        .heading{
+            font-size: 20px;
+        }
+    }
+    
+}
+
+.experiences{
+    background-color: #eee;
+    padding-bottom: 20px;
+    .experiences_content{
+        color: #5C8374;
+        .heading{
+            font-size: 20px;
+        }
+    }
+}
