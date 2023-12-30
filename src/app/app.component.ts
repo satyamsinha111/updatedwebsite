@@ -5,6 +5,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faCloudDownload,faExternalLink } from '@fortawesome/free-solid-svg-icons';
 import { ProjectCardComponent } from './components/project-card/project-card.component';
 import { ExperiencesCardComponent } from './components/experiences-card/experiences-card.component';
+// import {} from "../assets/Docs/resume.pdf"
 
 @Component({
   selector: 'app-root',
